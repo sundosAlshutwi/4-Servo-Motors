@@ -65,11 +65,6 @@ The project was implemented and tested using **Tinkercad Circuits**.
 
 A video of the simulation is included as part of the submission to demonstrate the required movement.
 
-## Files Included
-
-* `servo_sweep.ino` – Arduino source code.
-* `README.md` – Project description and documentation.
-* `Video` – Demonstration of the simulation.
 
 ## Conclusion
 
