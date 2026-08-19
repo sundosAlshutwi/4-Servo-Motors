@@ -77,5 +77,8 @@ The project successfully controls four servo motors to perform the required Swee
 
 ## Video Demonstration
 
-https://github.com/user-attachments/assets/61cd935a-05bc-4ee9-b92c-3f67f4eefd96
+
+https://github.com/user-attachments/assets/0abbd065-8b2b-4016-978c-98ce4e1d80d0
+
+
 
